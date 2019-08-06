@@ -1,0 +1,4 @@
+#Mon Aug 05 06:59:42 PDT 2019
+base.0=E\:\\Android projects\\SirensAndHorns-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\84
+path.0=classes.dex
+renamed.0=classes.dex

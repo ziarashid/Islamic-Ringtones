@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    >
+
+
+
+    <TextView
+        android:id="@+id/textViewButtonName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="7dp"
+        android:padding="5dp"
+        android:layout_alignParentLeft="true"
+        android:text="Activity"
+        android:textColor="#fff" />
+
+    <ImageView
+        android:id="@+id/dotsimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/more_icon" />
+    <ImageView
+        android:id="@+id/dotsimage1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/dotsimage"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/share_icon" />
+    <ImageView
+        android:id="@+id/dotsimage2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/dotsimage1"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/play_icon" />
+
+</RelativeLayout>

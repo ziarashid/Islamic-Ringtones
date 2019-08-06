@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Aug 05 06:59:43 PDT 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Android projects\\SirensAndHorns-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\84
+0.path=classes.dex
+0.set=DEX
+count=1

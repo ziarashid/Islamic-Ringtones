@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\2d06bd89e6c28fc1b4b4010e2b9b2d17\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7e5459b5a43f7290a7221cc8d635df11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e81d205483f9a58e5f88026043fb7d73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\f47ea1eddeca0ff0745230ebdea82934\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\b0efd046f1d9ea06aef32a8c76fe07aa\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\90d29d7f482fef6d84598986ae2482cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\793686384ac8f5db939a6cd0c4890542\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c96364f2425b9de08aae2dd7e8f28fa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ddb41084415414bd5db4194cb3581dec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fa7312a4a5f64c9f5e350beb0ad59f34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a07e6121e8ae0e043736137f37dc514a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\153729e66b77351afd98b13dad1df908\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dd474e47199e0cda2f00197e12e8aaad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\504136be8afc216153cf5932ed46a108\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\4a65d86f53b5dfe2006e64177fcbfb9e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\244477b3fc7eac27e8171fb1cb8acc37\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3eded58b645c0e4d1c1820d5fa132053\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1f4c54e009f059727712ad27de827aee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\746bd2c4ec9c4a88e1223fa15ac66324\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c52ae1ab3f1ce6c951f0d14cb6e2184a\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:8:22-70
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:13:22-70
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:15:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:16:22-72
+uses-sdk
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:18:5-20:41
+INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:18:5-20:41
+INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\2d06bd89e6c28fc1b4b4010e2b9b2d17\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\2d06bd89e6c28fc1b4b4010e2b9b2d17\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7e5459b5a43f7290a7221cc8d635df11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7e5459b5a43f7290a7221cc8d635df11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e81d205483f9a58e5f88026043fb7d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e81d205483f9a58e5f88026043fb7d73\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\f47ea1eddeca0ff0745230ebdea82934\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\f47ea1eddeca0ff0745230ebdea82934\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\b0efd046f1d9ea06aef32a8c76fe07aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\b0efd046f1d9ea06aef32a8c76fe07aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\90d29d7f482fef6d84598986ae2482cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\90d29d7f482fef6d84598986ae2482cf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\793686384ac8f5db939a6cd0c4890542\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\793686384ac8f5db939a6cd0c4890542\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c96364f2425b9de08aae2dd7e8f28fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c96364f2425b9de08aae2dd7e8f28fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ddb41084415414bd5db4194cb3581dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ddb41084415414bd5db4194cb3581dec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fa7312a4a5f64c9f5e350beb0ad59f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fa7312a4a5f64c9f5e350beb0ad59f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a07e6121e8ae0e043736137f37dc514a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a07e6121e8ae0e043736137f37dc514a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\153729e66b77351afd98b13dad1df908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\153729e66b77351afd98b13dad1df908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dd474e47199e0cda2f00197e12e8aaad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dd474e47199e0cda2f00197e12e8aaad\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\504136be8afc216153cf5932ed46a108\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\504136be8afc216153cf5932ed46a108\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\4a65d86f53b5dfe2006e64177fcbfb9e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\4a65d86f53b5dfe2006e64177fcbfb9e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\244477b3fc7eac27e8171fb1cb8acc37\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\244477b3fc7eac27e8171fb1cb8acc37\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3eded58b645c0e4d1c1820d5fa132053\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3eded58b645c0e4d1c1820d5fa132053\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1f4c54e009f059727712ad27de827aee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1f4c54e009f059727712ad27de827aee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\746bd2c4ec9c4a88e1223fa15ac66324\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\746bd2c4ec9c4a88e1223fa15ac66324\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c52ae1ab3f1ce6c951f0d14cb6e2184a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c52ae1ab3f1ce6c951f0d14cb6e2184a\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:18:5-20:41
+INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:18:5-20:41
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\2d06bd89e6c28fc1b4b4010e2b9b2d17\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:20:9-38
+		INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:19:9-34
+		INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:22:5-62:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\f47ea1eddeca0ff0745230ebdea82934\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\f47ea1eddeca0ff0745230ebdea82934\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\b0efd046f1d9ea06aef32a8c76fe07aa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\b0efd046f1d9ea06aef32a8c76fe07aa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\793686384ac8f5db939a6cd0c4890542\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\793686384ac8f5db939a6cd0c4890542\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\504136be8afc216153cf5932ed46a108\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\504136be8afc216153cf5932ed46a108\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\4a65d86f53b5dfe2006e64177fcbfb9e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\4a65d86f53b5dfe2006e64177fcbfb9e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\244477b3fc7eac27e8171fb1cb8acc37\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\244477b3fc7eac27e8171fb1cb8acc37\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.wantech.sirensandhorns.downloadfree.MainActivity
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:27:9-37:20
+	android:screenOrientation
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:31:13-66
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.wantech.sirensandhorns.downloadfree.SirensActivity
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:screenOrientation
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:40:13-58
+	android:theme
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:42:13-66
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:39:13-82
+activity#com.wantech.sirensandhorns.downloadfree.ImageAdapter
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:46:13-65
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:45:13-80
+activity#com.wantech.sirensandhorns.downloadfree.DialogBox
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:50:13-62
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:49:13-77
+meta-data#com.google.android.gms.version
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:54:9-56:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\b0efd046f1d9ea06aef32a8c76fe07aa\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\b0efd046f1d9ea06aef32a8c76fe07aa\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:56:13-66
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:55:13-58
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:57:9-59:69
+	android:value
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:59:13-67
+	android:name
+		ADDED from E:\Android projects\SirensAndHorns-master\app\src\main\AndroidManifest.xml:58:13-69
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Yasir\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\46ef6be61ce63a4bc50a0e3992a1f55c\AndroidManifest.xml:30:13-65
